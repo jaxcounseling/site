@@ -1,0 +1,1398 @@
+/* font-face */
+@font-face {
+  font-family: "SocialFoundicons";
+  src: url("../fonts/social_foundicons.eot");
+  src: url("../fonts/social_foundicons.eot?#iefix") format("embedded-opentype"), url("../fonts/social_foundicons.woff") format("woff"), url("../fonts/social_foundicons.ttf") format("truetype"), url("../fonts/social_foundicons.svg#SocialFoundicons") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* global foundicon styles */
+/* line 7, ../sass/social_foundicons.scss */
+[class*="socialfoundicon-"] {
+  display: inline;
+  width: auto;
+  height: auto;
+  line-height: inherit;
+  vertical-align: baseline;
+  background-image: none;
+  background-position: 0 0;
+  background-repeat: repeat;
+}
+
+/* line 17, ../sass/social_foundicons.scss */
+[class*="socialfoundicon-"]:before {
+  font-family: "SocialFoundicons";
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: inherit;
+}
+
+/* icons */
+/* line 6, ../sass/social_foundicons_settings.scss */
+.socialfoundicon-thumb-up:before {
+  content: "\f000";
+}
+
+/* line 6, ../sass/social_foundicons_settings.scss */
+.socialfoundicon-thumb-down:before {
+  content: "\f001";
+}
+
+/* line 6, ../sass/social_foundicons_settings.scss */
+.socialfoundicon-rss:before {
+  content: "\f002";
+}
+
+/* line 6, ../sass/social_foundicons_settings.scss */
+.socialfoundicon-facebook:before {
+  content: "\f003";
+}
+
+/* line 6, ../sass/social_foundicons_settings.scss */
+.socialfoundicon-twitter:before {
+  content: "\f004";
+}
+
+/* line 6, ../sass/social_foundicons_settings.scss */
+.socialfoundicon-pinterest:before {
+  content: "\f005";
+}
+
+/* line 6, ../sass/social_foundicons_settings.scss */
+.socialfoundicon-github:before {
+  content: "\f006";
+}
+
+/* line 6, ../sass/social_foundicons_settings.scss */
+.socialfoundicon-path:before {
+  content: "\f007";
+}
+
+/* line 6, ../sass/social_foundicons_settings.scss */
+.socialfoundicon-linkedin:before {
+  content: "\f008";
+}
+
+/* line 6, ../sass/social_foundicons_settings.scss */
+.socialfoundicon-dribbble:before {
+  content: "\f009";
+}
+
+/* line 6, ../sass/social_foundicons_settings.scss */
+.socialfoundicon-stumble-upon:before {
+  content: "\f00a";
+}
+
+/* line 6, ../sass/social_foundicons_settings.scss */
+.socialfoundicon-behance:before {
+  content: "\f00b";
+}
+
+/* line 6, ../sass/social_foundicons_settings.scss */
+.socialfoundicon-reddit:before {
+  content: "\f00c";
+}
+
+/* line 6, ../sass/social_foundicons_settings.scss */
+.socialfoundicon-google-plus:before {
+  content: "\f00d";
+}
+
+/* line 6, ../sass/social_foundicons_settings.scss */
+.socialfoundicon-youtube:before {
+  content: "\f00e";
+}
+
+/* line 6, ../sass/social_foundicons_settings.scss */
+.socialfoundicon-vimeo:before {
+  content: "\f00f";
+}
+
+/* line 6, ../sass/social_foundicons_settings.scss */
+.socialfoundicon-flickr:before {
+  content: "\f010";
+}
+
+/* line 6, ../sass/social_foundicons_settings.scss */
+.socialfoundicon-slideshare:before {
+  content: "\f011";
+}
+
+/* line 6, ../sass/social_foundicons_settings.scss */
+.socialfoundicon-picassa:before {
+  content: "\f012";
+}
+
+/* line 6, ../sass/social_foundicons_settings.scss */
+.socialfoundicon-skype:before {
+  content: "\f013";
+}
+
+/* line 6, ../sass/social_foundicons_settings.scss */
+.socialfoundicon-steam:before {
+  content: "\f014";
+}
+
+/* line 6, ../sass/social_foundicons_settings.scss */
+.socialfoundicon-instagram:before {
+  content: "\f015";
+}
+
+/* line 6, ../sass/social_foundicons_settings.scss */
+.socialfoundicon-foursquare:before {
+  content: "\f016";
+}
+
+/* line 6, ../sass/social_foundicons_settings.scss */
+.socialfoundicon-delicious:before {
+  content: "\f017";
+}
+
+/* line 6, ../sass/social_foundicons_settings.scss */
+.socialfoundicon-chat:before {
+  content: "\f018";
+}
+
+/* line 6, ../sass/social_foundicons_settings.scss */
+.socialfoundicon-torso:before {
+  content: "\f019";
+}
+
+/* line 6, ../sass/social_foundicons_settings.scss */
+.socialfoundicon-tumblr:before {
+  content: "\f01a";
+}
+
+/* line 6, ../sass/social_foundicons_settings.scss */
+.socialfoundicon-video-chat:before {
+  content: "\f01b";
+}
+
+/* line 6, ../sass/social_foundicons_settings.scss */
+.socialfoundicon-digg:before {
+  content: "\f01c";
+}
+
+/* line 6, ../sass/social_foundicons_settings.scss */
+.socialfoundicon-wordpress:before {
+  content: "\f01d";
+}
+
+/* font-face */
+@font-face {
+  font-family: "GeneralFoundicons";
+  src: url("../fonts/general_foundicons.eot");
+  src: url("../fonts/general_foundicons.eot?#iefix") format("embedded-opentype"), url("../fonts/general_foundicons.woff") format("woff"), url("../fonts/general_foundicons.ttf") format("truetype"), url("../fonts/general_foundicons.svg#GeneralFoundicons") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* global foundicon styles */
+/* line 7, ../sass/general_foundicons.scss */
+[class*="generalfoundicon-"] {
+  display: inline;
+  width: auto;
+  height: auto;
+  line-height: inherit;
+  vertical-align: baseline;
+  background-image: none;
+  background-position: 0 0;
+  background-repeat: repeat;
+}
+
+/* line 17, ../sass/general_foundicons.scss */
+[class*="generalfoundicon-"]:before {
+  font-family: "GeneralFoundicons";
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: inherit;
+}
+
+/* icons */
+/* line 6, ../sass/general_foundicons_settings.scss */
+.generalfoundicon-settings:before {
+  content: "\f000";
+}
+
+/* line 6, ../sass/general_foundicons_settings.scss */
+.generalfoundicon-heart:before {
+  content: "\f001";
+}
+
+/* line 6, ../sass/general_foundicons_settings.scss */
+.generalfoundicon-star:before {
+  content: "\f002";
+}
+
+/* line 6, ../sass/general_foundicons_settings.scss */
+.generalfoundicon-plus:before {
+  content: "\f003";
+}
+
+/* line 6, ../sass/general_foundicons_settings.scss */
+.generalfoundicon-minus:before {
+  content: "\f004";
+}
+
+/* line 6, ../sass/general_foundicons_settings.scss */
+.generalfoundicon-checkmark:before {
+  content: "\f005";
+}
+
+/* line 6, ../sass/general_foundicons_settings.scss */
+.generalfoundicon-remove:before {
+  content: "\f006";
+}
+
+/* line 6, ../sass/general_foundicons_settings.scss */
+.generalfoundicon-mail:before {
+  content: "\f007";
+}
+
+/* line 6, ../sass/general_foundicons_settings.scss */
+.generalfoundicon-calendar:before {
+  content: "\f008";
+}
+
+/* line 6, ../sass/general_foundicons_settings.scss */
+.generalfoundicon-page:before {
+  content: "\f009";
+}
+
+/* line 6, ../sass/general_foundicons_settings.scss */
+.generalfoundicon-tools:before {
+  content: "\f00a";
+}
+
+/* line 6, ../sass/general_foundicons_settings.scss */
+.generalfoundicon-globe:before {
+  content: "\f00b";
+}
+
+/* line 6, ../sass/general_foundicons_settings.scss */
+.generalfoundicon-home:before {
+  content: "\f00c";
+}
+
+/* line 6, ../sass/general_foundicons_settings.scss */
+.generalfoundicon-quote:before {
+  content: "\f00d";
+}
+
+/* line 6, ../sass/general_foundicons_settings.scss */
+.generalfoundicon-people:before {
+  content: "\f00e";
+}
+
+/* line 6, ../sass/general_foundicons_settings.scss */
+.generalfoundicon-monitor:before {
+  content: "\f00f";
+}
+
+/* line 6, ../sass/general_foundicons_settings.scss */
+.generalfoundicon-laptop:before {
+  content: "\f010";
+}
+
+/* line 6, ../sass/general_foundicons_settings.scss */
+.generalfoundicon-phone:before {
+  content: "\f011";
+}
+
+/* line 6, ../sass/general_foundicons_settings.scss */
+.generalfoundicon-cloud:before {
+  content: "\f012";
+}
+
+/* line 6, ../sass/general_foundicons_settings.scss */
+.generalfoundicon-error:before {
+  content: "\f013";
+}
+
+/* line 6, ../sass/general_foundicons_settings.scss */
+.generalfoundicon-right-arrow:before {
+  content: "\f014";
+}
+
+/* line 6, ../sass/general_foundicons_settings.scss */
+.generalfoundicon-left-arrow:before {
+  content: "\f015";
+}
+
+/* line 6, ../sass/general_foundicons_settings.scss */
+.generalfoundicon-up-arrow:before {
+  content: "\f016";
+}
+
+/* line 6, ../sass/general_foundicons_settings.scss */
+.generalfoundicon-down-arrow:before {
+  content: "\f017";
+}
+
+/* line 6, ../sass/general_foundicons_settings.scss */
+.generalfoundicon-trash:before {
+  content: "\f018";
+}
+
+/* line 6, ../sass/general_foundicons_settings.scss */
+.generalfoundicon-add-doc:before {
+  content: "\f019";
+}
+
+/* line 6, ../sass/general_foundicons_settings.scss */
+.generalfoundicon-edit:before {
+  content: "\f01a";
+}
+
+/* line 6, ../sass/general_foundicons_settings.scss */
+.generalfoundicon-lock:before {
+  content: "\f01b";
+}
+
+/* line 6, ../sass/general_foundicons_settings.scss */
+.generalfoundicon-unlock:before {
+  content: "\f01c";
+}
+
+/* line 6, ../sass/general_foundicons_settings.scss */
+.generalfoundicon-refresh:before {
+  content: "\f01d";
+}
+
+/* line 6, ../sass/general_foundicons_settings.scss */
+.generalfoundicon-paper-clip:before {
+  content: "\f01e";
+}
+
+/* line 6, ../sass/general_foundicons_settings.scss */
+.generalfoundicon-video:before {
+  content: "\f01f";
+}
+
+/* line 6, ../sass/general_foundicons_settings.scss */
+.generalfoundicon-photo:before {
+  content: "\f020";
+}
+
+/* line 6, ../sass/general_foundicons_settings.scss */
+.generalfoundicon-graph:before {
+  content: "\f021";
+}
+
+/* line 6, ../sass/general_foundicons_settings.scss */
+.generalfoundicon-idea:before {
+  content: "\f022";
+}
+
+/* line 6, ../sass/general_foundicons_settings.scss */
+.generalfoundicon-mic:before {
+  content: "\f023";
+}
+
+/* line 6, ../sass/general_foundicons_settings.scss */
+.generalfoundicon-cart:before {
+  content: "\f024";
+}
+
+/* line 6, ../sass/general_foundicons_settings.scss */
+.generalfoundicon-address-book:before {
+  content: "\f025";
+}
+
+/* line 6, ../sass/general_foundicons_settings.scss */
+.generalfoundicon-compass:before {
+  content: "\f026";
+}
+
+/* line 6, ../sass/general_foundicons_settings.scss */
+.generalfoundicon-flag:before {
+  content: "\f027";
+}
+
+/* line 6, ../sass/general_foundicons_settings.scss */
+.generalfoundicon-location:before {
+  content: "\f028";
+}
+
+/* line 6, ../sass/general_foundicons_settings.scss */
+.generalfoundicon-clock:before {
+  content: "\f029";
+}
+
+/* line 6, ../sass/general_foundicons_settings.scss */
+.generalfoundicon-folder:before {
+  content: "\f02a";
+}
+
+/* line 6, ../sass/general_foundicons_settings.scss */
+.generalfoundicon-inbox:before {
+  content: "\f02b";
+}
+
+/* line 6, ../sass/general_foundicons_settings.scss */
+.generalfoundicon-website:before {
+  content: "\f02c";
+}
+
+/* line 6, ../sass/general_foundicons_settings.scss */
+.generalfoundicon-smiley:before {
+  content: "\f02d";
+}
+
+/* line 6, ../sass/general_foundicons_settings.scss */
+.generalfoundicon-search:before {
+  content: "\f02e";
+}
+
+/*colors*/
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: normal;
+  src: local("Open Sans");
+}
+
+/*general*/
+/* line 21, ../sass/style.scss */
+p, figcaption {
+  font-family: 'Open Sans',"Helvetica Neue","Helvetica",Helvetica,Arial,sans-serif;
+  line-height: 1.4em;
+  font-weight: 300;
+  font-size: 0.938em;
+}
+
+/* line 28, ../sass/style.scss */
+img {
+  verticle-align: middle;
+}
+
+/* line 32, ../sass/style.scss */
+h5 {
+  font-family: "Helvetica Neue","Helvetica",Helvetica,Arial,sans-serif;
+  font-size: 1.8em;
+  font-weight: 600;
+}
+
+/* line 38, ../sass/style.scss */
+h5 a {
+  color: black;
+}
+
+/* line 42, ../sass/style.scss */
+h6 {
+  font-family: 'Open Sans',"Helvetica Neue","Helvetica",Helvetica,Arial,sans-serif;
+  color: black;
+  font-size: 1.05em;
+  line-height: 1.4em;
+  font-weight: 300;
+}
+
+/*end general*/
+/*verytopbar*/
+/* line 54, ../sass/style.scss */
+#very_top {
+  background: #23282b;
+  position: relative;
+}
+
+/* line 59, ../sass/style.scss */
+#very_top h1 {
+  margin: 0;
+  padding: 12px 0;
+}
+
+/* line 64, ../sass/style.scss */
+#very_top h1 a img {
+  max-width: 100%;
+}
+
+/*social*/
+/* line 70, ../sass/style.scss */
+.social li {
+  display: inline;
+  padding-right: 20px;
+}
+
+/* line 75, ../sass/style.scss */
+.hover:hover {
+  color: white;
+}
+
+/* line 79, ../sass/style.scss */
+.generalfoundicon-mail {
+  color: #d9dcde;
+  font-size: 40px;
+}
+/* line 6, ../sass/general_foundicons_settings.scss */
+.generalfoundicon-mail .generalfoundicon-mail:before {
+  content: "\f007";
+}
+
+/* line 85, ../sass/style.scss */
+.socialfoundicon-facebook {
+  color: #d9dcde;
+  font-size: 40px;
+}
+/* line 6, ../sass/general_foundicons_settings.scss */
+.socialfoundicon-facebook .generalfoundicon-facebook:before {
+  content: "\f003";
+}
+
+/* line 91, ../sass/style.scss */
+.socialfoundicon-twitter {
+  color: #d9dcde;
+  font-size: 40px;
+}
+/* line 6, ../sass/general_foundicons_settings.scss */
+.socialfoundicon-twitter .generalfoundicon-twitter:before {
+  content: "\f004";
+}
+
+/* line 97, ../sass/style.scss */
+.socialfoundicon-linkedin {
+  color: #d9dcde;
+  font-size: 40px;
+}
+/* line 6, ../sass/general_foundicons_settings.scss */
+.socialfoundicon-linkedin .generalfoundicon-linkedin:before {
+  content: "\f008";
+}
+
+/* line 103, ../sass/style.scss */
+.social p {
+  display: inline;
+  color: white;
+  font-size: 1.43em;
+}
+
+/* line 109, ../sass/style.scss */
+.social p span {
+  font-weight: bold;
+}
+
+/*end-social*/
+/*end-verytopbar*/
+/*nav*/
+/* line 119, ../sass/style.scss */
+nav.top-bar section.top-bar-section ul.left {
+  margin-left: 0;
+}
+
+/* line 122, ../sass/style.scss */
+nav.top-bar section.top-bar-section ul.left li.active a {
+  color: #eaebe9;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  font-size: 1em;
+}
+
+/* line 129, ../sass/style.scss */
+nav.top-bar section.top-bar-section ul.left li.active a:hover {
+  color: white;
+  background: #222222;
+}
+
+/* line 134, ../sass/style.scss */
+nav.top-bar ul.title-area li.toggle-topbar a span {
+  color: white;
+  font-size: 1.250em;
+  box-shadow: none;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+}
+
+/* line 142, ../sass/style.scss */
+nav.top-bar section.top-bar-section ul.left li.has-dropdown a {
+  background: #090909;
+  color: #eaebe9;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  font-size: 1em;
+}
+
+/* line 150, ../sass/style.scss */
+nav.top-bar section.top-bar-section ul.left li.has-dropdown a:hover {
+  color: white;
+}
+
+/* line 154, ../sass/style.scss */
+nav.top-bar section.top-bar-section ul.left li.has-form a.button {
+  font-size: 1.125em;
+  font-weight: 300;
+  text-align: center;
+  text-transform: uppercase;
+  margin-top: -0.313em;
+  padding: 2 1px;
+  -webkit-border-radius: 0.188em;
+  -moz-border-radius: 0.188em;
+  -ms-border-radius: 0.188em;
+  -o-border-radius: 0.188em;
+  border-radius: 0.188em;
+}
+
+/* line 164, ../sass/style.scss */
+nav.top-bar section.top-bar-section ul.left li.has-form a.button:hover {
+  text-decoration: underline;
+}
+
+/* line 168, ../sass/style.scss */
+button, .button {
+  border: none;
+  background: #0eb8e7;
+}
+
+/* line 172, ../sass/style.scss */
+button:hover, button:focus, .button:hover, .button:focus {
+  text-decoration: underline;
+  background: #0eb8e7;
+}
+
+/* line 177, ../sass/style.scss */
+div.row div.large-4 h1 a img {
+  margin-top: 8px;
+  margin-left: 10px;
+}
+
+/*end nav*/
+/*header*/
+/* line 185, ../sass/style.scss */
+header div.row div.large-12 div.row div.large-12 h1.logo {
+  font-size: 2.2em;
+  line-height: 0.9;
+  font-weight: 900;
+  text-shadow: 1px 1px #FFFFFF, 0 0 0 #000000, 1px 1px #FFFFFF;
+  color: #df2a4c;
+  text-transform: uppercase;
+  margin-top: 13px;
+  text-align: center;
+}
+
+/* line 196, ../sass/style.scss */
+header div.row div.large-12 div.row div.large-12 h2 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  font-size: 1.3em;
+  text-align: center;
+  margin-top: -22px;
+  margin-bottom: -6px;
+  line-height: 1.3em;
+}
+
+/* line 206, ../sass/style.scss */
+header div.row div.large-12 div.row div.large-12 h2 span {
+  font-weight: 600;
+}
+
+/* line 210, ../sass/style.scss */
+nav.top-bar {
+  margin-bottom: 0px;
+}
+
+/* line 213, ../sass/style.scss */
+.subheader {
+  color: black;
+}
+
+/* line 217, ../sass/style.scss */
+div#mobile_header.row div.welcome a.large {
+  margin-top: 30px;
+  margin-bottom: -30px;
+}
+
+/*end header*/
+/*sub-boxes*/
+/* line 225, ../sass/style.scss */
+.sub-boxes {
+  margin-top: 1.250em;
+}
+
+/* line 229, ../sass/style.scss */
+.sub-boxes h5 a {
+  color: black;
+}
+
+/* line 233, ../sass/style.scss */
+.sub-boxes h6 a {
+  color: #ef2e8c;
+  font-weight: 100;
+  font-style: normal;
+}
+
+/* line 239, ../sass/style.scss */
+.sub-boxes h6 a:hover {
+  text-decoration: underline;
+}
+
+/* line 243, ../sass/style.scss */
+.sub-boxes h6.subheader {
+  margin-top: -0.938em;
+}
+
+/*welcome*/
+/* line 248, ../sass/style.scss */
+#mobile_header {
+  background: url(../images/bg.png);
+  margin-top: -18px;
+}
+
+/* line 253, ../sass/style.scss */
+h6.subheader span {
+  font-weight: bold;
+}
+
+/*end-welcome*/
+/*what-we-do*/
+/* line 260, ../sass/style.scss */
+li.house a h6:hover, li.house a p:hover {
+  text-decoration: underline !important;
+}
+
+/* line 264, ../sass/style.scss */
+li.heart a h6:hover, li.heart a p:hover {
+  text-decoration: underline !important;
+}
+
+/* line 268, ../sass/style.scss */
+li.show-for-medium-up a h6:hover, li.show-for-medium-up a p:hover {
+  text-decoration: underline !important;
+}
+
+/* line 271, ../sass/style.scss */
+html.js body dili.mental a h6:hover, li.mental a p:hover {
+  text-decoration: underline !important;
+}
+
+/* line 274, ../sass/style.scss */
+ul.small-block-grid-2 li a h6:hover, ul.small-block-grid-2 li a p:hover {
+  text-decoration: underline !important;
+}
+
+/* line 277, ../sass/style.scss */
+ul.small-block-grid-2 li.mental a h6:hover, ul.small-block-grid-2 li.mental a p:hover {
+  text-decoration: underline !important;
+}
+
+/* line 281, ../sass/style.scss */
+ul#row1.small-block-grid-2 {
+  margin-top: 1.313em;
+}
+
+/* line 285, ../sass/style.scss */
+div.what-we-do {
+  margin-top: 0.875em;
+}
+
+/* line 289, ../sass/style.scss */
+.block, .welcome, .what-we-do, .who-we-are, .get-help, .testimonials {
+  border-bottom: 1px solid #d9dcde;
+  padding-bottom: 1.3em;
+  padding-top: 1em;
+  text-align: center;
+}
+
+/* line 296, ../sass/style.scss */
+div.what-we-do h6#category {
+  font-weight: bold;
+}
+
+/* line 300, ../sass/style.scss */
+.what-we-do img {
+  max-width: 90%;
+}
+
+/* line 304, ../sass/style.scss */
+.what-we-do div.small-12 h6 {
+  margin-top: 0.938em;
+  margin-bottom: 0;
+}
+
+/* line 309, ../sass/style.scss */
+.small-block-grid-2 li.heart div#icon1 {
+  background: url(../images/heart.png);
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;
+}
+
+/* line 316, ../sass/style.scss */
+.small-block-grid-2 li.heart div#icon1:hover {
+  background: url(../images/heart_hover.png);
+}
+
+/* line 320, ../sass/style.scss */
+.small-block-grid-2 li.house div#icon2 {
+  background: url(../images/families.png);
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;
+}
+
+/* line 327, ../sass/style.scss */
+.small-block-grid-2 li.house div#icon2:hover {
+  background: url(../images/families_hover.png);
+}
+
+/* line 331, ../sass/style.scss */
+.small-block-grid-2 li.show-for-medium-up div#icon3 {
+  background: url(../images/addiction.png);
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;
+}
+
+/* line 338, ../sass/style.scss */
+.small-block-grid-2 li.show-for-medium-up div#icon3:hover {
+  background: url(../images/addiction_hover.png);
+}
+
+/* line 343, ../sass/style.scss */
+.small-block-grid-2 li div#smallicon3 {
+  background: url(../images/addiction.png);
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;
+}
+
+/* line 349, ../sass/style.scss */
+.small-block-grid-2 li div#smallicon3:hover {
+  background: url(../images/addiction_hover.png);
+}
+
+/* line 354, ../sass/style.scss */
+.small-block-grid-2 li.show-for-medium-up div#icon4 {
+  background: url(../images/mental_health.png);
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;
+}
+
+/* line 361, ../sass/style.scss */
+.small-block-grid-2 li.show-for-medium-up div#icon4:hover {
+  background: url(../images/mental_health_hover.png);
+}
+
+/* line 365, ../sass/style.scss */
+.small-block-grid-2 li div#smallicon4 {
+  background: url(../images/mental_health.png);
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;
+}
+
+/* line 371, ../sass/style.scss */
+.small-block-grid-2 li div#smallicon4:hover {
+  background: url(../images/mental_health_hover.png);
+}
+
+/* line 376, ../sass/style.scss */
+div.what-we-do ul.small-block-grid-2 {
+  margin-left: -20px;
+}
+
+/* line 380, ../sass/style.scss */
+div.what-we-do div.small-12 div.heart {
+  max-width: 50%;
+  float: left;
+  padding-right: 5px;
+}
+
+/* line 387, ../sass/style.scss */
+div.what-we-do div.small-12 div.house {
+  max-width: 50%;
+  float: right;
+  padding-left: 5px;
+}
+
+/* line 393, ../sass/style.scss */
+div.what-we-do div.small-12 div.win {
+  max-width: 50%;
+  float: left;
+  clear: both;
+  padding-right: 5px;
+}
+
+/* line 400, ../sass/style.scss */
+div.what-we-do div.small-12 div.mental {
+  max-width: 50%;
+  overflow: hidden;
+  float: right;
+  padding-left: 5px;
+}
+
+/* line 408, ../sass/style.scss */
+.button_style, .welcome a.large, .what-we-do a.large, .who-we-are a.large, .get-help a.large, .testimonials a.large {
+  font-size: 1.125em;
+  line-height: 1.3em;
+  font-weight: 600;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 18px;
+  margin-top: 20px;
+  margin-bottom: -27em;
+}
+
+/* line 419, ../sass/style.scss */
+div.what-we-do ul.small-block-grid-2 li a p {
+  color: black;
+}
+
+/*end what-we-do*/
+/*who-we-are*/
+/* line 425, ../sass/style.scss */
+div.who-we-are div.sub-boxes img {
+  margin-top: 0.813em;
+}
+
+/*testimonials*/
+/* line 430, ../sass/style.scss */
+.testimonials {
+  text-align: center;
+}
+
+/* line 434, ../sass/style.scss */
+div.testimonials div.sub-boxes div.small-6 h6 {
+  margin-bottom: 0;
+}
+
+/* line 438, ../sass/style.scss */
+div.testimonials div.sub-boxes h6.subheader {
+  margin-bottom: 1.3em;
+}
+
+/* line 442, ../sass/style.scss */
+div.testimonials div.sub-boxes div.small-6 img {
+  margin-bottom: 1.250em;
+}
+
+/*testimonials*/
+/* line 449, ../sass/style.scss */
+div.sub-boxes div.small-12 div#test1 {
+  max-width: 48%;
+  float: left;
+  padding-right: 5px;
+}
+
+/* line 455, ../sass/style.scss */
+div.sub-boxes div.small-12 div#test2 {
+  max-width: 48%;
+  overflow: hidden;
+  float: right;
+  padding-left: 5px;
+}
+
+/* line 462, ../sass/style.scss */
+div.sub-boxes div.small-12 div#test3 {
+  max-width: 48%;
+  float: left;
+  clear: both;
+  padding-right: 5px;
+}
+
+/* line 469, ../sass/style.scss */
+div.sub-boxes div.small-12 div#test4 {
+  max-width: 48%;
+  float: right;
+  padding-left: 5px;
+}
+
+/*location*/
+/* line 477, ../sass/style.scss */
+.location {
+  padding-bottom: 1.3em;
+  padding-top: 1em;
+  text-align: center;
+}
+
+/* line 483, ../sass/style.scss */
+div#address.small-12 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* line 489, ../sass/style.scss */
+#address {
+  text-align: left;
+}
+
+/* line 493, ../sass/style.scss */
+div.location div.sub-boxes div#address h6 {
+  margin-bottom: 0;
+}
+
+/* line 497, ../sass/style.scss */
+div.sub-boxes div#address img {
+  margin-top: 1.250em;
+}
+
+/* line 501, ../sass/style.scss */
+div.location div.sub-boxes div#address p {
+  margin-bottom: 1.250em;
+}
+
+/* line 505, ../sass/style.scss */
+figure.small-12 figcaption {
+  padding: 5px;
+  margin-bottom: 1.250em;
+}
+
+/* line 510, ../sass/style.scss */
+figure.small-12 figcaption span {
+  font-weight: 600;
+}
+
+/* line 514, ../sass/style.scss */
+figure.small-12 figcaption a:hover {
+  text-decoration: underline;
+}
+
+/*footer*/
+/* line 519, ../sass/style.scss */
+footer.row div.large-12 {
+  text-align: center;
+  background: #111111;
+  padding: 0.625em;
+}
+
+/* line 525, ../sass/style.scss */
+#footer.row div.large-12 p {
+  color: white;
+  margin-top: 15px;
+  margin-bottom: 6px;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+/* line 533, ../sass/style.scss */
+#bottom_links ul {
+  list-style: none;
+  margin-top: 30px;
+}
+
+/* line 538, ../sass/style.scss */
+#bottom_links ul li {
+  display: inline;
+  padding: 5px;
+}
+
+/* line 543, ../sass/style.scss */
+#bottom_links ul li a {
+  color: white;
+}
+
+/* line 547, ../sass/style.scss */
+#bottom_links ul li a:hover {
+  text-decoration: underline;
+}
+
+/*font*/
+@font-face {
+  font-family: 'icomoon';
+  src: url("../fonts/icomoon.eot");
+  src: url("../fonts/icomoon.eot?#iefix") format("embedded-opentype"), url("../fonts/icomoon.woff") format("woff"), url("../fonts/icomoon.ttf") format("truetype"), url("../fonts/icomoon.svg#icomoon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  background: white;
+}
+
+/* Use the following CSS code if you want to use data attributes for inserting your icons */
+/* line 565, ../sass/style.scss */
+[data-icon]:before {
+  font-family: 'icomoon';
+  content: attr(data-icon);
+  speak: none;
+  font-size: 48px;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Use the following CSS code if you want to have a class per icon */
+/*
+Instead of a list of all class selectors,
+you can use the generic selector below, but it's slower:
+[class*="icon-"] {
+*/
+/* line 583, ../sass/style.scss */
+.icon-arrow-up {
+  font-family: 'icomoon';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  font-size: 3.200em;
+}
+
+/* line 595, ../sass/style.scss */
+div.large-12 a.icon-arrow-up {
+  color: #d9dcde;
+}
+
+/* line 599, ../sass/style.scss */
+div.large-12 a.icon-arrow-up:hover {
+  color: white;
+}
+
+/* line 603, ../sass/style.scss */
+.icon-arrow-up:before {
+  content: "\e000";
+}
+
+@media only screen and (min-width: 768px) {
+  /*navbar*/
+  /* line 610, ../sass/style.scss */
+  nav.top-bar section.top-bar-section ul.left {
+    margin-left: 30px;
+  }
+
+  /*end-navbar*/
+  /*social*/
+  /* line 617, ../sass/style.scss */
+  .social li {
+    padding-right: 20px;
+  }
+
+  /* line 621, ../sass/style.scss */
+  .generalfoundicon-mail {
+    padding-right: 25px;
+  }
+
+  /* line 625, ../sass/style.scss */
+  div.social ul {
+    margin-left: 49px;
+    margin-bottom: 0;
+  }
+
+  /* line 630, ../sass/style.scss */
+  i.socialfoundicon-facebook {
+    margin-left: -17px;
+  }
+
+  /* line 634, ../sass/style.scss */
+  .social p {
+    margin-bottom: 0;
+    margin-left: 47px;
+  }
+
+  /*end-social*/
+  /*end-verytopbar*/
+  /*flexslider*/
+  /* line 646, ../sass/style.scss */
+  div.flexslider {
+    margin: 0 0 30px;
+    background: none;
+    border: none;
+    border-radius: none;
+    box-shadow: none;
+  }
+
+  /* line 655, ../sass/style.scss */
+  .flexslider div.flex-viewport ul.slides li {
+    position: relative;
+  }
+
+  /* line 659, ../sass/style.scss */
+  .flex-caption {
+    position: absolute;
+    z-index: 1;
+    background: rgba(0, 0, 0, 0.6);
+    width: 15em;
+    padding: 1.4em;
+  }
+
+  /* line 667, ../sass/style.scss */
+  #box_1 {
+    left: 1.9em;
+    right: 0;
+    top: 1.2em;
+  }
+
+  /* line 673, ../sass/style.scss */
+  #box_2, #box_3 {
+    left: 1.9em;
+    right: 0;
+    top: 1.2em;
+  }
+
+  /* line 679, ../sass/style.scss */
+  .flex-control-nav {
+    bottom: 1px;
+  }
+
+  /* line 683, ../sass/style.scss */
+  .flex-caption h4, .flex-caption h6 {
+    color: white;
+    line-height: 1em;
+  }
+
+  /* line 688, ../sass/style.scss */
+  .flex-caption p {
+    color: white;
+    font-size: 1.1em;
+    line-height: 1.3em;
+  }
+
+  /* line 694, ../sass/style.scss */
+  div.flex-caption a#flex_link {
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+  }
+
+  /* line 699, ../sass/style.scss */
+  div.flex-caption a#flex_link:hover {
+    text-decoration: underline;
+  }
+
+  /*end-flexslider*/
+  /*whatwedo*/
+  /* line 705, ../sass/style.scss */
+  div.what-we-do ul#row1.small-block-grid-2 {
+    margin-top: 2.5em;
+  }
+
+  /* line 709, ../sass/style.scss */
+  div.row div.what-we-do a.large {
+    margin-top: 0;
+  }
+
+  /*end-whatwedo*/
+  /*whoweare*/
+  /* line 716, ../sass/style.scss */
+  div.large-6 h6#caption {
+    text-align: center;
+  }
+
+  /* line 720, ../sass/style.scss */
+  ul.small-block-grid-2 {
+    margin-top: 2.5em;
+  }
+
+  /* line 724, ../sass/style.scss */
+  li#test1 h6, li#test2 h6, li#test3.show-for-medium-up h6, li#test4.show-for-medium-up h6 {
+    margin-top: 1em;
+  }
+
+  /* line 728, ../sass/style.scss */
+  div.sub-boxes div.who-we-are {
+    border-bottom: 0;
+  }
+
+  /* line 732, ../sass/style.scss */
+  .left_align, div.who-we-are h5.left_align {
+    text-align: left;
+  }
+
+  /* line 736, ../sass/style.scss */
+  div.who-we-are h5.left_align a {
+    font-size: 0.8em;
+  }
+
+  /* line 740, ../sass/style.scss */
+  div.who-we-are h5 {
+    text-align: center;
+  }
+
+  /* line 744, ../sass/style.scss */
+  div.who-we-are p {
+    margin-top: 0.75em;
+    font-size: 0.8em;
+  }
+
+  /* line 749, ../sass/style.scss */
+  div.sub-boxes div.who-we-are {
+    padding-bottom: 0;
+  }
+
+  /* line 754, ../sass/style.scss */
+  div.who-we-are ul.disc {
+    font-size: 1.14em;
+  }
+
+  /* line 758, ../sass/style.scss */
+  div.who-we-are ul.disc li p {
+    line-height: 1.0em;
+  }
+
+  /* line 762, ../sass/style.scss */
+  div.who-we-are div.sub-boxes div.large-6 img {
+    margin-top: 1.25em;
+  }
+
+  /* line 766, ../sass/style.scss */
+  div.who-we-are div.sub-boxes div.large-5 {
+    margin-top: -0.5em;
+  }
+
+  /* line 771, ../sass/style.scss */
+  div#move.large-12 {
+    margin-top: 1.25em;
+  }
+
+  /*end-whoweare*/
+  /*testimonials*/
+  /* line 778, ../sass/style.scss */
+  #testimonial_btn {
+    margin-top: -35px;
+  }
+
+  /*end-testimonials*/
+  /*get-help*/
+  /* line 785, ../sass/style.scss */
+  div.get-help {
+    padding-bottom: 4.65em;
+    border-bottom: none;
+  }
+
+  /*end-get-help*/
+}
+@media only screen and (min-width: 800px) {
+  /* line 793, ../sass/style.scss */
+  div.hide-for-small div.social {
+    margin-left: 13px;
+  }
+
+  /* line 797, ../sass/style.scss */
+  div.large-6 h6#caption {
+    padding-right: 20px;
+  }
+}
+@media only screen and (min-width: 1024px) {
+  /* line 803, ../sass/style.scss */
+  div.hide-for-small div.social {
+    margin-left: 105px;
+  }
+
+  /* line 807, ../sass/style.scss */
+  #box_1.flex-caption, #box_2.flex-caption, #box_3.flex-caption {
+    font-size: 1.3em;
+    left: 1.5em;
+  }
+
+  /* line 812, ../sass/style.scss */
+  div.large-4 h1 a img {
+    margin-left: 10px;
+  }
+}
+/* line 818, ../sass/style.scss */
+div.large-6 h6#caption {
+  padding-right: 20px;
+}
+
+@media only screen and (min-width: 1280px) {
+  /* line 824, ../sass/style.scss */
+  div.hide-for-small div.social {
+    margin-left: 210px;
+  }
+
+  /* line 829, ../sass/style.scss */
+  #box_1.flex-caption, #box_2.flex-caption, #box_3.flex-caption {
+    font-size: 1.6em;
+    left: 1.3em;
+  }
+}
